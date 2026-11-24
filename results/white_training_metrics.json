@@ -1,0 +1,12 @@
+{
+  "train": 183,
+  "validation": 61,
+  "test": 14,
+  "epochs": 12,
+  "selected_epoch": 12,
+  "threshold": 0.5,
+  "validation_iou": 0.6321353484866515,
+  "test_onnx_iou": 0.7644225623461415,
+  "onnx_pytorch_different_pixels": 0,
+  "compared_pixels": 688128
+}

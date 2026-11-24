@@ -1,0 +1,2674 @@
+[
+ {
+  "file": "test/tb3_autorace_bag_lights_off/000001.png",
+  "ok": true,
+  "v": 0.031232664884135473,
+  "yaw": -0.09107843137254903,
+  "ypx": 1038,
+  "wpx": 453
+ },
+ {
+  "file": "test/tb3_autorace_bag_lights_off/000008.png",
+  "ok": true,
+  "v": 0.023182976827094477,
+  "yaw": 0.2856862745098039,
+  "ypx": 408,
+  "wpx": 668
+ },
+ {
+  "file": "test/tb3_autorace_bag_lights_off/000015.png",
+  "ok": true,
+  "v": 0.033158912655971484,
+  "yaw": -0.044509803921568614,
+  "ypx": 946,
+  "wpx": 379
+ },
+ {
+  "file": "test/tb3_autorace_bag_lights_off/000016.png",
+  "ok": true,
+  "v": 0.03127727272727273,
+  "yaw": -0.09000000000000001,
+  "ypx": 850,
+  "wpx": 682
+ },
+ {
+  "file": "test/tb3_autorace_bag_lights_off/000018.png",
+  "ok": true,
+  "v": 0.027899242424242427,
+  "yaw": 0.17166666666666663,
+  "ypx": 265,
+  "wpx": 1153
+ },
+ {
+  "file": "test/tb3_autorace_bag_lights_off/000044.png",
+  "ok": true,
+  "v": 0.03426599821746881,
+  "yaw": -0.017745098039215625,
+  "ypx": 935,
+  "wpx": 728
+ },
+ {
+  "file": "test/tb3_autorace_bag_lights_on/000003.png",
+  "ok": true,
+  "v": 0.026171702317290556,
+  "yaw": -0.21343137254901956,
+  "ypx": 1136,
+  "wpx": 193
+ },
+ {
+  "file": "test/tb3_autorace_bag_lights_on/000012.png",
+  "ok": true,
+  "v": 0.0303445632798574,
+  "yaw": -0.11254901960784316,
+  "ypx": 677,
+  "wpx": 870
+ },
+ {
+  "file": "test/tb3_autorace_bag_lights_on/000017.png",
+  "ok": true,
+  "v": 0.03324001782531195,
+  "yaw": -0.04254901960784313,
+  "ypx": 1028,
+  "wpx": 547
+ },
+ {
+  "file": "test/tb3_autorace_bag_lights_on_2/000002.png",
+  "ok": true,
+  "v": 0.03305347593582888,
+  "yaw": -0.047058823529411785,
+  "ypx": 1107,
+  "wpx": 681
+ },
+ {
+  "file": "test/tb3_autorace_bag_lights_on_2/000005.png",
+  "ok": true,
+  "v": 0.03272094474153298,
+  "yaw": -0.05509803921568627,
+  "ypx": 935,
+  "wpx": 783
+ },
+ {
+  "file": "test/tb3_autorace_bag_lights_on_2/000008.png",
+  "ok": true,
+  "v": 0.026001381461675584,
+  "yaw": -0.21754901960784306,
+  "ypx": 1157,
+  "wpx": 307
+ },
+ {
+  "file": "test/tb3_autorace_circle_ground_lights_off/000002.png",
+  "ok": true,
+  "v": 0.032972370766488415,
+  "yaw": 0.04901960784313726,
+  "ypx": 881,
+  "wpx": 745
+ },
+ {
+  "file": "test/tb3_autorace_circle_ground_lights_off/000008.png",
+  "ok": true,
+  "v": 0.03049460784313726,
+  "yaw": -0.10892156862745098,
+  "ypx": 876,
+  "wpx": 639
+ },
+ {
+  "file": "test/tb3_autorace_circle_ground_lights_off/000012.png",
+  "ok": true,
+  "v": 0.03416056149732621,
+  "yaw": -0.02029411764705875,
+  "ypx": 901,
+  "wpx": 703
+ },
+ {
+  "file": "test/tb3_autorace_circle_ground_lights_off_inverse/000012.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 953,
+  "wpx": 681
+ },
+ {
+  "file": "test/tb3_autorace_circle_ground_lights_off_inverse/000013.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1114,
+  "wpx": 585
+ },
+ {
+  "file": "test/tb3_autorace_circle_ground_lights_off_inverse/000018.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 840,
+  "wpx": 779
+ },
+ {
+  "file": "test/tb3_autorace_circle_ground_lights_on/000014.png",
+  "ok": true,
+  "v": 0.02839803921568628,
+  "yaw": -0.15960784313725485,
+  "ypx": 1227,
+  "wpx": 318
+ },
+ {
+  "file": "test/tb3_autorace_circle_ground_lights_on/000019.png",
+  "ok": true,
+  "v": 0.030255347593582893,
+  "yaw": 0.11470588235294114,
+  "ypx": 794,
+  "wpx": 816
+ },
+ {
+  "file": "test/tb3_autorace_circle_ground_lights_on_inverse/000005.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 893,
+  "wpx": 716
+ },
+ {
+  "file": "test/tb3_autorace_circle_ground_lights_on_inverse/000016.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 747,
+  "wpx": 822
+ },
+ {
+  "file": "test/tb3_autorace_circle_ground_lights_on_inverse/000018.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 881,
+  "wpx": 884
+ },
+ {
+  "file": "test/tb3_autorace_circle_lights_off/000000.png",
+  "ok": true,
+  "v": 0.03273716577540107,
+  "yaw": 0.054705882352941194,
+  "ypx": 946,
+  "wpx": 699
+ },
+ {
+  "file": "test/tb3_autorace_circle_lights_off/000003.png",
+  "ok": true,
+  "v": 0.03302103386809269,
+  "yaw": -0.047843137254901975,
+  "ypx": 758,
+  "wpx": 554
+ },
+ {
+  "file": "test/tb3_autorace_circle_lights_off/000015.png",
+  "ok": true,
+  "v": 0.02692192513368984,
+  "yaw": -0.19529411764705884,
+  "ypx": 999,
+  "wpx": 676
+ },
+ {
+  "file": "test/tb3_autorace_circle_lights_off_inverse/000009.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 691,
+  "wpx": 692
+ },
+ {
+  "file": "test/tb3_autorace_circle_lights_off_inverse/000012.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 944,
+  "wpx": 700
+ },
+ {
+  "file": "test/tb3_autorace_circle_lights_off_inverse/000020.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 859,
+  "wpx": 687
+ },
+ {
+  "file": "test/tb3_autorace_circle_lights_off_inverse/000022.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 880,
+  "wpx": 811
+ },
+ {
+  "file": "test/tb3_autorace_circle_lights_on/000001.png",
+  "ok": true,
+  "v": 0.034464705882352946,
+  "yaw": -0.01294117647058819,
+  "ypx": 952,
+  "wpx": 860
+ },
+ {
+  "file": "test/tb3_autorace_circle_lights_on/000002.png",
+  "ok": true,
+  "v": 0.03169901960784314,
+  "yaw": -0.0798039215686275,
+  "ypx": 1099,
+  "wpx": 519
+ },
+ {
+  "file": "test/tb3_autorace_circle_lights_on/000007.png",
+  "ok": true,
+  "v": 0.03472829768270945,
+  "yaw": 0.006568627450980369,
+  "ypx": 870,
+  "wpx": 718
+ },
+ {
+  "file": "test/tb3_autorace_circle_lights_on_inverse/000001.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1054,
+  "wpx": 368
+ },
+ {
+  "file": "test/tb3_autorace_circle_lights_on_inverse/000014.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1041,
+  "wpx": 653
+ },
+ {
+  "file": "test/tb3_autorace_circle_lights_on_inverse/000023.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 744,
+  "wpx": 865
+ },
+ {
+  "file": "test/tb3_autorace_lights_off_inverse/000003.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1085,
+  "wpx": 25
+ },
+ {
+  "file": "test/tb3_autorace_lights_off_inverse/000017.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 949,
+  "wpx": 662
+ },
+ {
+  "file": "test/tb3_autorace_lights_off_inverse/000020.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1329,
+  "wpx": 423
+ },
+ {
+  "file": "test/tb3_autorace_lights_off_inverse/000026.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 985,
+  "wpx": 668
+ },
+ {
+  "file": "test/tb3_autorace_lights_on_inverse/000001.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1076,
+  "wpx": 410
+ },
+ {
+  "file": "test/tb3_autorace_lights_on_inverse/000010.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1037,
+  "wpx": 352
+ },
+ {
+  "file": "test/tb3_autorace_lights_on_inverse/000023.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 880,
+  "wpx": 806
+ },
+ {
+  "file": "test/tb3_autorace_lights_on_inverse/000026.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 949,
+  "wpx": 781
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_off/000000.png",
+  "ok": true,
+  "v": 0.03454986631016043,
+  "yaw": -0.010882352941176432,
+  "ypx": 925,
+  "wpx": 728
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_off/000003.png",
+  "ok": true,
+  "v": 0.026090597147950097,
+  "yaw": -0.21539215686274504,
+  "ypx": 1028,
+  "wpx": 419
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_off/000004.png",
+  "ok": true,
+  "v": 0.03399429590017825,
+  "yaw": -0.024313725490196135,
+  "ypx": 739,
+  "wpx": 622
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_off/000010.png",
+  "ok": true,
+  "v": 0.03276555258467023,
+  "yaw": -0.05401960784313725,
+  "ypx": 682,
+  "wpx": 583
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_off/000011.png",
+  "ok": true,
+  "v": 0.02055516934046346,
+  "yaw": 0.34921568627450983,
+  "ypx": 287,
+  "wpx": 688
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_off/000012.png",
+  "ok": true,
+  "v": 0.027104411764705884,
+  "yaw": -0.19088235294117653,
+  "ypx": 854,
+  "wpx": 534
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_off/000013.png",
+  "ok": true,
+  "v": 0.033353565062388596,
+  "yaw": 0.03980392156862742,
+  "ypx": 561,
+  "wpx": 474
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_off/000014.png",
+  "ok": true,
+  "v": 0.027929656862745105,
+  "yaw": -0.17093137254901952,
+  "ypx": 962,
+  "wpx": 398
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_off/000017.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 822,
+  "wpx": 272
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_off/000019.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 130,
+  "wpx": 903
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_off/000020.png",
+  "ok": true,
+  "v": 0.028600802139037436,
+  "yaw": 0.15470588235294122,
+  "ypx": 346,
+  "wpx": 914
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_off/000021.png",
+  "ok": true,
+  "v": 0.03020262923351159,
+  "yaw": -0.11598039215686276,
+  "ypx": 716,
+  "wpx": 841
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_off/000022.png",
+  "ok": true,
+  "v": 0.018292335115864533,
+  "yaw": 0.403921568627451,
+  "ypx": 323,
+  "wpx": 764
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_off/000023.png",
+  "ok": true,
+  "v": 0.030267513368983957,
+  "yaw": 0.11441176470588234,
+  "ypx": 966,
+  "wpx": 728
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_off/000024.png",
+  "ok": true,
+  "v": 0.03382397504456328,
+  "yaw": 0.02843137254901959,
+  "ypx": 972,
+  "wpx": 471
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_off/000025.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1139,
+  "wpx": 49
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_off/000027.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1147,
+  "wpx": 23
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_off/000028.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1379,
+  "wpx": 0
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_off/000030.png",
+  "ok": true,
+  "v": 0.032984536541889486,
+  "yaw": 0.04872549019607845,
+  "ypx": 967,
+  "wpx": 777
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_off/000031.png",
+  "ok": true,
+  "v": 0.03355632798573975,
+  "yaw": 0.034901960784313714,
+  "ypx": 883,
+  "wpx": 745
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_off/000032.png",
+  "ok": true,
+  "v": 0.03345494652406417,
+  "yaw": 0.03735294117647057,
+  "ypx": 953,
+  "wpx": 772
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_off/000033.png",
+  "ok": true,
+  "v": 0.03379558823529412,
+  "yaw": 0.02911764705882354,
+  "ypx": 997,
+  "wpx": 673
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_off/000034.png",
+  "ok": true,
+  "v": 0.031626024955436725,
+  "yaw": 0.08156862745098042,
+  "ypx": 921,
+  "wpx": 582
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_off/000035.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1246,
+  "wpx": 67
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_off/000037.png",
+  "ok": true,
+  "v": 0.034026737967914444,
+  "yaw": 0.023529411764705892,
+  "ypx": 856,
+  "wpx": 1020
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_off/000038.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 383,
+  "wpx": 1089
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_off/000042.png",
+  "ok": true,
+  "v": 0.03276960784313726,
+  "yaw": 0.053921568627451,
+  "ypx": 872,
+  "wpx": 646
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_off/000045.png",
+  "ok": true,
+  "v": 0.032976426024955444,
+  "yaw": -0.04892156862745095,
+  "ypx": 1088,
+  "wpx": 508
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_off/000046.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1151,
+  "wpx": 59
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_off/000048.png",
+  "ok": true,
+  "v": 0.019293983957219252,
+  "yaw": -0.3797058823529411,
+  "ypx": 1144,
+  "wpx": 292
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_off/000049.png",
+  "ok": true,
+  "v": 0.031849064171122994,
+  "yaw": 0.0761764705882353,
+  "ypx": 892,
+  "wpx": 927
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_off/000050.png",
+  "ok": true,
+  "v": 0.0342295008912656,
+  "yaw": 0.018627450980392184,
+  "ypx": 935,
+  "wpx": 774
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_off/000052.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1107,
+  "wpx": 158
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_off/000053.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1134,
+  "wpx": 11
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_on/000000.png",
+  "ok": true,
+  "v": 0.033345454545454546,
+  "yaw": -0.04000000000000004,
+  "ypx": 928,
+  "wpx": 841
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_on/000001.png",
+  "ok": true,
+  "v": 0.033037254901960786,
+  "yaw": -0.04745098039215688,
+  "ypx": 985,
+  "wpx": 698
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_on/000004.png",
+  "ok": true,
+  "v": 0.026810405525846705,
+  "yaw": -0.19799019607843138,
+  "ypx": 1055,
+  "wpx": 592
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_on/000005.png",
+  "ok": true,
+  "v": 0.03181256684491979,
+  "yaw": -0.07705882352941182,
+  "ypx": 893,
+  "wpx": 716
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_on/000006.png",
+  "ok": true,
+  "v": 0.03240463458110517,
+  "yaw": -0.06274509803921564,
+  "ypx": 905,
+  "wpx": 760
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_on/000007.png",
+  "ok": true,
+  "v": 0.03300075757575758,
+  "yaw": -0.048333333333333346,
+  "ypx": 945,
+  "wpx": 701
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_on/000008.png",
+  "ok": true,
+  "v": 0.03139893048128343,
+  "yaw": -0.0870588235294118,
+  "ypx": 1048,
+  "wpx": 578
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_on/000010.png",
+  "ok": true,
+  "v": 0.02665022281639929,
+  "yaw": -0.2018627450980392,
+  "ypx": 1231,
+  "wpx": 434
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_on/000013.png",
+  "ok": true,
+  "v": 0.034768850267379685,
+  "yaw": -0.005588235294117665,
+  "ypx": 692,
+  "wpx": 1065
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_on/000014.png",
+  "ok": true,
+  "v": 0.032209982174688054,
+  "yaw": 0.06745098039215691,
+  "ypx": 638,
+  "wpx": 1008
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_on/000015.png",
+  "ok": true,
+  "v": 0.014861586452762927,
+  "yaw": 0.4868627450980392,
+  "ypx": 510,
+  "wpx": 1268
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_on/000016.png",
+  "ok": true,
+  "v": 0.033828030303030304,
+  "yaw": 0.028333333333333308,
+  "ypx": 926,
+  "wpx": 893
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_on/000018.png",
+  "ok": true,
+  "v": 0.027473440285204993,
+  "yaw": -0.18196078431372553,
+  "ypx": 1149,
+  "wpx": 220
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_on/000021.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1126,
+  "wpx": 70
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_on/000022.png",
+  "ok": true,
+  "v": 0.027651871657754012,
+  "yaw": -0.1776470588235295,
+  "ypx": 1051,
+  "wpx": 549
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_on/000023.png",
+  "ok": true,
+  "v": 0.03189367201426026,
+  "yaw": -0.0750980392156862,
+  "ypx": 909,
+  "wpx": 709
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_on/000024.png",
+  "ok": true,
+  "v": 0.03287909982174689,
+  "yaw": -0.05127450980392157,
+  "ypx": 948,
+  "wpx": 780
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_on/000025.png",
+  "ok": true,
+  "v": 0.03300886809269162,
+  "yaw": -0.0481372549019608,
+  "ypx": 956,
+  "wpx": 708
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_on/000026.png",
+  "ok": true,
+  "v": 0.029906595365418898,
+  "yaw": -0.12313725490196081,
+  "ypx": 1054,
+  "wpx": 434
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_on/000027.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1148,
+  "wpx": 188
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_on/000028.png",
+  "ok": true,
+  "v": 0.02652450980392157,
+  "yaw": -0.2049019607843137,
+  "ypx": 1167,
+  "wpx": 582
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_on_2/000000.png",
+  "ok": true,
+  "v": 0.02789113190730838,
+  "yaw": -0.17186274509803923,
+  "ypx": 1250,
+  "wpx": 540
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_on_2/000001.png",
+  "ok": true,
+  "v": 0.03158547237076649,
+  "yaw": -0.08254901960784318,
+  "ypx": 1108,
+  "wpx": 914
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_on_2/000004.png",
+  "ok": true,
+  "v": 0.03231947415329769,
+  "yaw": -0.06480392156862741,
+  "ypx": 953,
+  "wpx": 874
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_on_2/000006.png",
+  "ok": true,
+  "v": 0.03213698752228165,
+  "yaw": -0.06921568627450975,
+  "ypx": 1034,
+  "wpx": 731
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_on_2/000007.png",
+  "ok": true,
+  "v": 0.02794385026737968,
+  "yaw": -0.1705882352941177,
+  "ypx": 1145,
+  "wpx": 319
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_on_2/000009.png",
+  "ok": true,
+  "v": 0.028961720142602496,
+  "yaw": -0.14598039215686276,
+  "ypx": 1063,
+  "wpx": 770
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_on_2/000010.png",
+  "ok": true,
+  "v": 0.03250601604278075,
+  "yaw": -0.0602941176470588,
+  "ypx": 910,
+  "wpx": 855
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_on_2/000012.png",
+  "ok": true,
+  "v": 0.033037254901960786,
+  "yaw": -0.04745098039215688,
+  "ypx": 987,
+  "wpx": 690
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_on_2/000013.png",
+  "ok": true,
+  "v": 0.029338859180035648,
+  "yaw": -0.13686274509803925,
+  "ypx": 1089,
+  "wpx": 416
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_on_2/000014.png",
+  "ok": true,
+  "v": 0.026112901069518725,
+  "yaw": -0.21485294117647052,
+  "ypx": 1140,
+  "wpx": 180
+ },
+ {
+  "file": "train/tb3_autorace_bag_lights_on_2/000015.png",
+  "ok": true,
+  "v": 0.02671510695187166,
+  "yaw": -0.20029411764705882,
+  "ypx": 1084,
+  "wpx": 561
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_off/000000.png",
+  "ok": true,
+  "v": 0.03441604278074867,
+  "yaw": 0.014117647058823573,
+  "ypx": 829,
+  "wpx": 780
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_off/000001.png",
+  "ok": true,
+  "v": 0.03343467023172906,
+  "yaw": 0.03784313725490194,
+  "ypx": 844,
+  "wpx": 796
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_off/000003.png",
+  "ok": true,
+  "v": 0.03467963458110517,
+  "yaw": 0.00774509803921568,
+  "ypx": 894,
+  "wpx": 643
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_off/000004.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1085,
+  "wpx": 12
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_off/000005.png",
+  "ok": true,
+  "v": 0.026784046345811056,
+  "yaw": -0.19862745098039214,
+  "ypx": 883,
+  "wpx": 563
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_off/000007.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1073,
+  "wpx": 7
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_off/000010.png",
+  "ok": true,
+  "v": 0.030202629233511594,
+  "yaw": -0.1159803921568627,
+  "ypx": 805,
+  "wpx": 731
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_off/000011.png",
+  "ok": true,
+  "v": 0.034529590017825317,
+  "yaw": 0.011372549019607874,
+  "ypx": 793,
+  "wpx": 735
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_off/000013.png",
+  "ok": true,
+  "v": 0.024983511586452765,
+  "yaw": -0.24215686274509807,
+  "ypx": 1081,
+  "wpx": 135
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_off/000015.png",
+  "ok": true,
+  "v": 0.034213279857397506,
+  "yaw": 0.01901960784313728,
+  "ypx": 871,
+  "wpx": 758
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_off/000016.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1118,
+  "wpx": 21
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_off/000017.png",
+  "ok": true,
+  "v": 0.03115155971479501,
+  "yaw": -0.09303921568627456,
+  "ypx": 928,
+  "wpx": 655
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_off/000018.png",
+  "ok": true,
+  "v": 0.03334950980392157,
+  "yaw": -0.03990196078431377,
+  "ypx": 844,
+  "wpx": 747
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_off_inverse/000000.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1116,
+  "wpx": 0
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_off_inverse/000001.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 790,
+  "wpx": 639
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_off_inverse/000004.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1066,
+  "wpx": 268
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_off_inverse/000005.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 705,
+  "wpx": 759
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_off_inverse/000006.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 669,
+  "wpx": 798
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_off_inverse/000007.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 669,
+  "wpx": 798
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_off_inverse/000008.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 735,
+  "wpx": 878
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_off_inverse/000009.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 962,
+  "wpx": 684
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_off_inverse/000010.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1052,
+  "wpx": 515
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_off_inverse/000014.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 771,
+  "wpx": 746
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_off_inverse/000015.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 715,
+  "wpx": 856
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_off_inverse/000016.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 739,
+  "wpx": 831
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_off_inverse/000017.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 797,
+  "wpx": 793
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_on/000001.png",
+  "ok": true,
+  "v": 0.031759848484848495,
+  "yaw": -0.07833333333333324,
+  "ypx": 851,
+  "wpx": 800
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_on/000002.png",
+  "ok": true,
+  "v": 0.032315418894830666,
+  "yaw": -0.06490196078431368,
+  "ypx": 870,
+  "wpx": 813
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_on/000003.png",
+  "ok": true,
+  "v": 0.033098083778966135,
+  "yaw": -0.04598039215686277,
+  "ypx": 865,
+  "wpx": 751
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_on/000004.png",
+  "ok": true,
+  "v": 0.028507531194295905,
+  "yaw": -0.15696078431372545,
+  "ypx": 1120,
+  "wpx": 223
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_on/000005.png",
+  "ok": true,
+  "v": 0.030194518716577547,
+  "yaw": -0.11617647058823521,
+  "ypx": 1003,
+  "wpx": 662
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_on/000006.png",
+  "ok": true,
+  "v": 0.034464705882352946,
+  "yaw": -0.01294117647058819,
+  "ypx": 828,
+  "wpx": 791
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_on/000007.png",
+  "ok": true,
+  "v": 0.026500178253119434,
+  "yaw": -0.20549019607843136,
+  "ypx": 1103,
+  "wpx": 319
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_on/000009.png",
+  "ok": true,
+  "v": 0.03492295008912656,
+  "yaw": -0.001862745098039209,
+  "ypx": 826,
+  "wpx": 791
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_on/000011.png",
+  "ok": true,
+  "v": 0.0324451871657754,
+  "yaw": 0.06176470588235294,
+  "ypx": 812,
+  "wpx": 749
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_on/000012.png",
+  "ok": true,
+  "v": 0.03483778966131908,
+  "yaw": -0.0039215686274509665,
+  "ypx": 895,
+  "wpx": 715
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_on/000013.png",
+  "ok": true,
+  "v": 0.034314661319073084,
+  "yaw": 0.01656862745098043,
+  "ypx": 958,
+  "wpx": 798
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_on/000015.png",
+  "ok": true,
+  "v": 0.032364081996434944,
+  "yaw": -0.0637254901960784,
+  "ypx": 1061,
+  "wpx": 571
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_on/000017.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1174,
+  "wpx": 54
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_on/000018.png",
+  "ok": true,
+  "v": 0.03184095365418895,
+  "yaw": -0.0763725490196079,
+  "ypx": 1049,
+  "wpx": 690
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_on_inverse/000000.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1099,
+  "wpx": 257
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_on_inverse/000001.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 945,
+  "wpx": 575
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_on_inverse/000002.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 757,
+  "wpx": 848
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_on_inverse/000004.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1098,
+  "wpx": 417
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_on_inverse/000006.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 779,
+  "wpx": 805
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_on_inverse/000007.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 731,
+  "wpx": 803
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_on_inverse/000008.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 821,
+  "wpx": 869
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_on_inverse/000009.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1160,
+  "wpx": 559
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_on_inverse/000011.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 859,
+  "wpx": 837
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_on_inverse/000012.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1009,
+  "wpx": 729
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_on_inverse/000014.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 809,
+  "wpx": 711
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_on_inverse/000015.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 785,
+  "wpx": 861
+ },
+ {
+  "file": "train/tb3_autorace_circle_ground_lights_on_inverse/000017.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 757,
+  "wpx": 797
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_off/000002.png",
+  "ok": true,
+  "v": 0.03044594474153298,
+  "yaw": -0.11009803921568626,
+  "ypx": 780,
+  "wpx": 446
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_off/000004.png",
+  "ok": true,
+  "v": 0.03289126559714795,
+  "yaw": 0.05098039215686275,
+  "ypx": 728,
+  "wpx": 547
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_off/000005.png",
+  "ok": true,
+  "v": 0.03154086452762924,
+  "yaw": 0.08362745098039213,
+  "ypx": 798,
+  "wpx": 595
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_off/000006.png",
+  "ok": true,
+  "v": 0.03100557040998218,
+  "yaw": 0.09656862745098035,
+  "ypx": 664,
+  "wpx": 576
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_off/000008.png",
+  "ok": true,
+  "v": 0.028625133689839575,
+  "yaw": 0.15411764705882353,
+  "ypx": 622,
+  "wpx": 709
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_off/000010.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1156,
+  "wpx": 0
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_off/000012.png",
+  "ok": true,
+  "v": 0.033223796791443855,
+  "yaw": 0.04294117647058827,
+  "ypx": 890,
+  "wpx": 799
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_off/000013.png",
+  "ok": true,
+  "v": 0.030064750445632803,
+  "yaw": 0.11931372549019606,
+  "ypx": 943,
+  "wpx": 694
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_off/000014.png",
+  "ok": true,
+  "v": 0.033102139037433156,
+  "yaw": -0.04588235294117644,
+  "ypx": 1012,
+  "wpx": 509
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_off/000016.png",
+  "ok": true,
+  "v": 0.030762254901960787,
+  "yaw": 0.10245098039215687,
+  "ypx": 783,
+  "wpx": 853
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_off/000017.png",
+  "ok": true,
+  "v": 0.02969572192513369,
+  "yaw": 0.12823529411764706,
+  "ypx": 742,
+  "wpx": 785
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_off/000018.png",
+  "ok": true,
+  "v": 0.029160427807486632,
+  "yaw": 0.1411764705882353,
+  "ypx": 761,
+  "wpx": 751
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_off/000020.png",
+  "ok": true,
+  "v": 0.02859269162210339,
+  "yaw": 0.15490196078431373,
+  "ypx": 796,
+  "wpx": 825
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_off/000021.png",
+  "ok": true,
+  "v": 0.028815730837789665,
+  "yaw": -0.1495098039215686,
+  "ypx": 1182,
+  "wpx": 238
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_off/000022.png",
+  "ok": true,
+  "v": 0.03291154188948307,
+  "yaw": -0.05049019607843133,
+  "ypx": 1039,
+  "wpx": 731
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_off/000023.png",
+  "ok": true,
+  "v": 0.030563547237076653,
+  "yaw": 0.1072549019607843,
+  "ypx": 863,
+  "wpx": 861
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_off/000024.png",
+  "ok": true,
+  "v": 0.028698128342245992,
+  "yaw": 0.1523529411764706,
+  "ypx": 840,
+  "wpx": 807
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_off_inverse/000000.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 875,
+  "wpx": 789
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_off_inverse/000001.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1071,
+  "wpx": 429
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_off_inverse/000002.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 997,
+  "wpx": 117
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_off_inverse/000003.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 742,
+  "wpx": 616
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_off_inverse/000004.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 629,
+  "wpx": 710
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_off_inverse/000005.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 633,
+  "wpx": 675
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_off_inverse/000006.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 638,
+  "wpx": 693
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_off_inverse/000007.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 661,
+  "wpx": 652
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_off_inverse/000008.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 649,
+  "wpx": 652
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_off_inverse/000010.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 969,
+  "wpx": 373
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_off_inverse/000013.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 919,
+  "wpx": 786
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_off_inverse/000015.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 969,
+  "wpx": 545
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_off_inverse/000017.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 754,
+  "wpx": 766
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_off_inverse/000019.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 755,
+  "wpx": 822
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_off_inverse/000021.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1095,
+  "wpx": 549
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_off_inverse/000023.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 882,
+  "wpx": 856
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_on/000000.png",
+  "ok": true,
+  "v": 0.03428627450980393,
+  "yaw": -0.017254901960784254,
+  "ypx": 889,
+  "wpx": 867
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_on/000003.png",
+  "ok": true,
+  "v": 0.026492067736185388,
+  "yaw": -0.2056862745098039,
+  "ypx": 1067,
+  "wpx": 510
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_on/000004.png",
+  "ok": true,
+  "v": 0.033953743315508024,
+  "yaw": -0.025294117647058877,
+  "ypx": 897,
+  "wpx": 610
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_on/000005.png",
+  "ok": true,
+  "v": 0.03462286096256685,
+  "yaw": 0.009117647058823498,
+  "ypx": 820,
+  "wpx": 686
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_on/000006.png",
+  "ok": true,
+  "v": 0.03467557932263815,
+  "yaw": 0.007843137254901933,
+  "ypx": 824,
+  "wpx": 651
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_on/000009.png",
+  "ok": true,
+  "v": 0.034274108734402856,
+  "yaw": -0.017549019607843074,
+  "ypx": 895,
+  "wpx": 685
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_on/000011.png",
+  "ok": true,
+  "v": 0.027501827094474157,
+  "yaw": -0.18127450980392157,
+  "ypx": 1110,
+  "wpx": 281
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_on/000012.png",
+  "ok": true,
+  "v": 0.027222014260249554,
+  "yaw": -0.18803921568627455,
+  "ypx": 1098,
+  "wpx": 500
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_on/000013.png",
+  "ok": true,
+  "v": 0.03373070409982175,
+  "yaw": -0.030686274509804,
+  "ypx": 878,
+  "wpx": 782
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_on/000014.png",
+  "ok": true,
+  "v": 0.034708021390374336,
+  "yaw": 0.00705882352941174,
+  "ypx": 953,
+  "wpx": 772
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_on/000015.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1129,
+  "wpx": 98
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_on/000017.png",
+  "ok": true,
+  "v": 0.03185311942959002,
+  "yaw": 0.07607843137254904,
+  "ypx": 832,
+  "wpx": 815
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_on/000018.png",
+  "ok": true,
+  "v": 0.028422370766488417,
+  "yaw": 0.15901960784313723,
+  "ypx": 733,
+  "wpx": 849
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_on/000019.png",
+  "ok": true,
+  "v": 0.03434710338680927,
+  "yaw": 0.01578431372549018,
+  "ypx": 981,
+  "wpx": 730
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_on/000020.png",
+  "ok": true,
+  "v": 0.03044188948306596,
+  "yaw": -0.11019607843137252,
+  "ypx": 927,
+  "wpx": 763
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_on/000021.png",
+  "ok": true,
+  "v": 0.0321288770053476,
+  "yaw": -0.0694117647058823,
+  "ypx": 858,
+  "wpx": 830
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_on/000022.png",
+  "ok": true,
+  "v": 0.03163008021390375,
+  "yaw": -0.08147058823529416,
+  "ypx": 1017,
+  "wpx": 628
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_on/000023.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1158,
+  "wpx": 29
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_on_inverse/000000.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1078,
+  "wpx": 527
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_on_inverse/000002.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 929,
+  "wpx": 567
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_on_inverse/000004.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 734,
+  "wpx": 747
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_on_inverse/000005.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 774,
+  "wpx": 740
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_on_inverse/000006.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 839,
+  "wpx": 722
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_on_inverse/000007.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 860,
+  "wpx": 707
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_on_inverse/000008.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 890,
+  "wpx": 673
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_on_inverse/000009.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1122,
+  "wpx": 140
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_on_inverse/000010.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1066,
+  "wpx": 440
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_on_inverse/000011.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 825,
+  "wpx": 882
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_on_inverse/000013.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1137,
+  "wpx": 372
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_on_inverse/000015.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 763,
+  "wpx": 834
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_on_inverse/000016.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 749,
+  "wpx": 839
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_on_inverse/000017.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 733,
+  "wpx": 813
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_on_inverse/000018.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 686,
+  "wpx": 790
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_on_inverse/000019.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 803,
+  "wpx": 877
+ },
+ {
+  "file": "train/tb3_autorace_circle_lights_on_inverse/000024.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 899,
+  "wpx": 785
+ },
+ {
+  "file": "train/tb3_autorace_lights_off_inverse/000001.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 873,
+  "wpx": 651
+ },
+ {
+  "file": "train/tb3_autorace_lights_off_inverse/000004.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 938,
+  "wpx": 185
+ },
+ {
+  "file": "train/tb3_autorace_lights_off_inverse/000006.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 571,
+  "wpx": 657
+ },
+ {
+  "file": "train/tb3_autorace_lights_off_inverse/000008.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 573,
+  "wpx": 856
+ },
+ {
+  "file": "train/tb3_autorace_lights_off_inverse/000009.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 650,
+  "wpx": 671
+ },
+ {
+  "file": "train/tb3_autorace_lights_off_inverse/000010.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 755,
+  "wpx": 526
+ },
+ {
+  "file": "train/tb3_autorace_lights_off_inverse/000011.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 650,
+  "wpx": 764
+ },
+ {
+  "file": "train/tb3_autorace_lights_off_inverse/000012.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 597,
+  "wpx": 827
+ },
+ {
+  "file": "train/tb3_autorace_lights_off_inverse/000014.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1119,
+  "wpx": 138
+ },
+ {
+  "file": "train/tb3_autorace_lights_off_inverse/000015.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 985,
+  "wpx": 601
+ },
+ {
+  "file": "train/tb3_autorace_lights_off_inverse/000016.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 972,
+  "wpx": 825
+ },
+ {
+  "file": "train/tb3_autorace_lights_off_inverse/000018.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1070,
+  "wpx": 394
+ },
+ {
+  "file": "train/tb3_autorace_lights_off_inverse/000019.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1123,
+  "wpx": 361
+ },
+ {
+  "file": "train/tb3_autorace_lights_off_inverse/000021.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 943,
+  "wpx": 1115
+ },
+ {
+  "file": "train/tb3_autorace_lights_off_inverse/000022.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 225,
+  "wpx": 1490
+ },
+ {
+  "file": "train/tb3_autorace_lights_off_inverse/000023.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 181,
+  "wpx": 1381
+ },
+ {
+  "file": "train/tb3_autorace_lights_off_inverse/000025.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1043,
+  "wpx": 492
+ },
+ {
+  "file": "train/tb3_autorace_lights_off_inverse/000027.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 879,
+  "wpx": 808
+ },
+ {
+  "file": "train/tb3_autorace_lights_off_inverse/000028.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1051,
+  "wpx": 526
+ },
+ {
+  "file": "train/tb3_autorace_lights_off_inverse/000029.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1010,
+  "wpx": 730
+ },
+ {
+  "file": "train/tb3_autorace_lights_off_inverse/000030.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 879,
+  "wpx": 793
+ },
+ {
+  "file": "train/tb3_autorace_lights_off_inverse/000031.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 908,
+  "wpx": 657
+ },
+ {
+  "file": "train/tb3_autorace_lights_on_inverse/000000.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 968,
+  "wpx": 783
+ },
+ {
+  "file": "train/tb3_autorace_lights_on_inverse/000002.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1076,
+  "wpx": 184
+ },
+ {
+  "file": "train/tb3_autorace_lights_on_inverse/000003.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 798,
+  "wpx": 568
+ },
+ {
+  "file": "train/tb3_autorace_lights_on_inverse/000004.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 612,
+  "wpx": 710
+ },
+ {
+  "file": "train/tb3_autorace_lights_on_inverse/000006.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 700,
+  "wpx": 773
+ },
+ {
+  "file": "train/tb3_autorace_lights_on_inverse/000007.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 927,
+  "wpx": 386
+ },
+ {
+  "file": "train/tb3_autorace_lights_on_inverse/000008.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1051,
+  "wpx": 336
+ },
+ {
+  "file": "train/tb3_autorace_lights_on_inverse/000009.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 786,
+  "wpx": 857
+ },
+ {
+  "file": "train/tb3_autorace_lights_on_inverse/000011.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1063,
+  "wpx": 393
+ },
+ {
+  "file": "train/tb3_autorace_lights_on_inverse/000012.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 933,
+  "wpx": 837
+ },
+ {
+  "file": "train/tb3_autorace_lights_on_inverse/000013.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 974,
+  "wpx": 800
+ },
+ {
+  "file": "train/tb3_autorace_lights_on_inverse/000014.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1225,
+  "wpx": 226
+ },
+ {
+  "file": "train/tb3_autorace_lights_on_inverse/000017.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 853,
+  "wpx": 1117
+ },
+ {
+  "file": "train/tb3_autorace_lights_on_inverse/000019.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 122,
+  "wpx": 1354
+ },
+ {
+  "file": "train/tb3_autorace_lights_on_inverse/000020.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 639,
+  "wpx": 1131
+ },
+ {
+  "file": "train/tb3_autorace_lights_on_inverse/000021.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1053,
+  "wpx": 559
+ },
+ {
+  "file": "train/tb3_autorace_lights_on_inverse/000024.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 920,
+  "wpx": 755
+ },
+ {
+  "file": "train/tb3_autorace_lights_on_inverse/000025.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 945,
+  "wpx": 654
+ },
+ {
+  "file": "train/tb3_autorace_lights_on_inverse/000027.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 886,
+  "wpx": 840
+ },
+ {
+  "file": "train/tb3_autorace_lights_on_inverse/000028.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 959,
+  "wpx": 654
+ },
+ {
+  "file": "validation/tb3_autorace_bag_lights_off/000002.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1140,
+  "wpx": 102
+ },
+ {
+  "file": "validation/tb3_autorace_bag_lights_off/000005.png",
+  "ok": true,
+  "v": 0.017452896613190733,
+  "yaw": 0.42421568627450984,
+  "ypx": 246,
+  "wpx": 616
+ },
+ {
+  "file": "validation/tb3_autorace_bag_lights_off/000006.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 39,
+  "wpx": 325
+ },
+ {
+  "file": "validation/tb3_autorace_bag_lights_off/000009.png",
+  "ok": true,
+  "v": 0.03000392156862745,
+  "yaw": 0.12078431372549021,
+  "ypx": 620,
+  "wpx": 669
+ },
+ {
+  "file": "validation/tb3_autorace_bag_lights_off/000029.png",
+  "ok": true,
+  "v": 0.02819933155080214,
+  "yaw": -0.16441176470588234,
+  "ypx": 1000,
+  "wpx": 576
+ },
+ {
+  "file": "validation/tb3_autorace_bag_lights_off/000036.png",
+  "ok": true,
+  "v": 0.025555303030303032,
+  "yaw": -0.2283333333333334,
+  "ypx": 1119,
+  "wpx": 489
+ },
+ {
+  "file": "validation/tb3_autorace_bag_lights_off/000041.png",
+  "ok": true,
+  "v": 0.02951729055258467,
+  "yaw": 0.13254901960784315,
+  "ypx": 829,
+  "wpx": 785
+ },
+ {
+  "file": "validation/tb3_autorace_bag_lights_off/000043.png",
+  "ok": true,
+  "v": 0.033479278074866316,
+  "yaw": 0.03676470588235298,
+  "ypx": 846,
+  "wpx": 811
+ },
+ {
+  "file": "validation/tb3_autorace_bag_lights_off/000051.png",
+  "ok": true,
+  "v": 0.034760739750445635,
+  "yaw": -0.005784313725490153,
+  "ypx": 984,
+  "wpx": 560
+ },
+ {
+  "file": "validation/tb3_autorace_bag_lights_on/000002.png",
+  "ok": true,
+  "v": 0.028856283422459897,
+  "yaw": -0.14852941176470588,
+  "ypx": 1088,
+  "wpx": 384
+ },
+ {
+  "file": "validation/tb3_autorace_bag_lights_on/000009.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1170,
+  "wpx": 205
+ },
+ {
+  "file": "validation/tb3_autorace_bag_lights_on/000011.png",
+  "ok": true,
+  "v": 0.03224647950089127,
+  "yaw": -0.06656862745098034,
+  "ypx": 774,
+  "wpx": 869
+ },
+ {
+  "file": "validation/tb3_autorace_bag_lights_on/000019.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1168,
+  "wpx": 31
+ },
+ {
+  "file": "validation/tb3_autorace_bag_lights_on/000020.png",
+  "ok": true,
+  "v": 0.026269028520499112,
+  "yaw": -0.21107843137254897,
+  "ypx": 1120,
+  "wpx": 220
+ },
+ {
+  "file": "validation/tb3_autorace_bag_lights_on/000029.png",
+  "ok": true,
+  "v": 0.02998770053475936,
+  "yaw": -0.12117647058823525,
+  "ypx": 1005,
+  "wpx": 822
+ },
+ {
+  "file": "validation/tb3_autorace_bag_lights_on_2/000003.png",
+  "ok": true,
+  "v": 0.03169496434937612,
+  "yaw": -0.07990196078431366,
+  "ypx": 1058,
+  "wpx": 573
+ },
+ {
+  "file": "validation/tb3_autorace_bag_lights_on_2/000011.png",
+  "ok": true,
+  "v": 0.032984536541889486,
+  "yaw": -0.04872549019607845,
+  "ypx": 941,
+  "wpx": 818
+ },
+ {
+  "file": "validation/tb3_autorace_bag_lights_on_2/000016.png",
+  "ok": true,
+  "v": 0.031017736185383248,
+  "yaw": -0.09627450980392159,
+  "ypx": 922,
+  "wpx": 704
+ },
+ {
+  "file": "validation/tb3_autorace_circle_ground_lights_off/000006.png",
+  "ok": true,
+  "v": 0.03210860071301248,
+  "yaw": -0.06990196078431365,
+  "ypx": 814,
+  "wpx": 692
+ },
+ {
+  "file": "validation/tb3_autorace_circle_ground_lights_off/000009.png",
+  "ok": true,
+  "v": 0.031415151515151514,
+  "yaw": -0.08666666666666674,
+  "ypx": 800,
+  "wpx": 751
+ },
+ {
+  "file": "validation/tb3_autorace_circle_ground_lights_off/000014.png",
+  "ok": true,
+  "v": 0.02675160427807487,
+  "yaw": -0.19941176470588234,
+  "ypx": 1050,
+  "wpx": 374
+ },
+ {
+  "file": "validation/tb3_autorace_circle_ground_lights_off_inverse/000002.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 703,
+  "wpx": 763
+ },
+ {
+  "file": "validation/tb3_autorace_circle_ground_lights_off_inverse/000003.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 928,
+  "wpx": 327
+ },
+ {
+  "file": "validation/tb3_autorace_circle_ground_lights_off_inverse/000011.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 838,
+  "wpx": 840
+ },
+ {
+  "file": "validation/tb3_autorace_circle_ground_lights_on/000000.png",
+  "ok": true,
+  "v": 0.033905080213903746,
+  "yaw": -0.026470588235294166,
+  "ypx": 876,
+  "wpx": 784
+ },
+ {
+  "file": "validation/tb3_autorace_circle_ground_lights_on/000008.png",
+  "ok": true,
+  "v": 0.018101737967914446,
+  "yaw": -0.40852941176470586,
+  "ypx": 1077,
+  "wpx": 239
+ },
+ {
+  "file": "validation/tb3_autorace_circle_ground_lights_on/000010.png",
+  "ok": true,
+  "v": 0.03364148841354724,
+  "yaw": 0.03284313725490194,
+  "ypx": 791,
+  "wpx": 811
+ },
+ {
+  "file": "validation/tb3_autorace_circle_ground_lights_on/000016.png",
+  "ok": true,
+  "v": 0.03333328877005348,
+  "yaw": 0.0402941176470588,
+  "ypx": 959,
+  "wpx": 769
+ },
+ {
+  "file": "validation/tb3_autorace_circle_ground_lights_on_inverse/000003.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 957,
+  "wpx": 585
+ },
+ {
+  "file": "validation/tb3_autorace_circle_ground_lights_on_inverse/000010.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 995,
+  "wpx": 564
+ },
+ {
+  "file": "validation/tb3_autorace_circle_ground_lights_on_inverse/000013.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1068,
+  "wpx": 485
+ },
+ {
+  "file": "validation/tb3_autorace_circle_lights_off/000001.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1092,
+  "wpx": 22
+ },
+ {
+  "file": "validation/tb3_autorace_circle_lights_off/000007.png",
+  "ok": true,
+  "v": 0.030060695187165778,
+  "yaw": 0.11941176470588233,
+  "ypx": 660,
+  "wpx": 747
+ },
+ {
+  "file": "validation/tb3_autorace_circle_lights_off/000009.png",
+  "ok": true,
+  "v": 0.03159763814616756,
+  "yaw": -0.08225490196078432,
+  "ypx": 937,
+  "wpx": 377
+ },
+ {
+  "file": "validation/tb3_autorace_circle_lights_off/000011.png",
+  "ok": true,
+  "v": 0.028710294117647063,
+  "yaw": -0.15205882352941175,
+  "ypx": 967,
+  "wpx": 599
+ },
+ {
+  "file": "validation/tb3_autorace_circle_lights_off/000019.png",
+  "ok": true,
+  "v": 0.029168538324420682,
+  "yaw": 0.14098039215686273,
+  "ypx": 772,
+  "wpx": 755
+ },
+ {
+  "file": "validation/tb3_autorace_circle_lights_off_inverse/000011.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1076,
+  "wpx": 353
+ },
+ {
+  "file": "validation/tb3_autorace_circle_lights_off_inverse/000014.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1027,
+  "wpx": 559
+ },
+ {
+  "file": "validation/tb3_autorace_circle_lights_off_inverse/000016.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 789,
+  "wpx": 779
+ },
+ {
+  "file": "validation/tb3_autorace_circle_lights_off_inverse/000018.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 881,
+  "wpx": 763
+ },
+ {
+  "file": "validation/tb3_autorace_circle_lights_on/000008.png",
+  "ok": true,
+  "v": 0.034452540106951875,
+  "yaw": -0.013235294117647014,
+  "ypx": 910,
+  "wpx": 557
+ },
+ {
+  "file": "validation/tb3_autorace_circle_lights_on/000010.png",
+  "ok": true,
+  "v": 0.03441198752228165,
+  "yaw": -0.014215686274509753,
+  "ypx": 940,
+  "wpx": 686
+ },
+ {
+  "file": "validation/tb3_autorace_circle_lights_on/000016.png",
+  "ok": true,
+  "v": 0.024545543672014263,
+  "yaw": -0.2527450980392157,
+  "ypx": 1166,
+  "wpx": 569
+ },
+ {
+  "file": "validation/tb3_autorace_circle_lights_on/000024.png",
+  "ok": true,
+  "v": 0.028024955436720147,
+  "yaw": -0.1686274509803921,
+  "ypx": 1064,
+  "wpx": 736
+ },
+ {
+  "file": "validation/tb3_autorace_circle_lights_on/000025.png",
+  "ok": true,
+  "v": 0.03358877005347594,
+  "yaw": 0.0341176470588235,
+  "ypx": 926,
+  "wpx": 856
+ },
+ {
+  "file": "validation/tb3_autorace_circle_lights_on_inverse/000003.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 733,
+  "wpx": 788
+ },
+ {
+  "file": "validation/tb3_autorace_circle_lights_on_inverse/000012.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 917,
+  "wpx": 762
+ },
+ {
+  "file": "validation/tb3_autorace_circle_lights_on_inverse/000020.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 964,
+  "wpx": 749
+ },
+ {
+  "file": "validation/tb3_autorace_circle_lights_on_inverse/000021.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1095,
+  "wpx": 689
+ },
+ {
+  "file": "validation/tb3_autorace_circle_lights_on_inverse/000022.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1030,
+  "wpx": 659
+ },
+ {
+  "file": "validation/tb3_autorace_lights_off_inverse/000000.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 864,
+  "wpx": 811
+ },
+ {
+  "file": "validation/tb3_autorace_lights_off_inverse/000002.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1017,
+  "wpx": 423
+ },
+ {
+  "file": "validation/tb3_autorace_lights_off_inverse/000005.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 601,
+  "wpx": 664
+ },
+ {
+  "file": "validation/tb3_autorace_lights_off_inverse/000007.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 567,
+  "wpx": 398
+ },
+ {
+  "file": "validation/tb3_autorace_lights_off_inverse/000013.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 798,
+  "wpx": 529
+ },
+ {
+  "file": "validation/tb3_autorace_lights_off_inverse/000024.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 734,
+  "wpx": 1010
+ },
+ {
+  "file": "validation/tb3_autorace_lights_on_inverse/000005.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 568,
+  "wpx": 667
+ },
+ {
+  "file": "validation/tb3_autorace_lights_on_inverse/000015.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1239,
+  "wpx": 325
+ },
+ {
+  "file": "validation/tb3_autorace_lights_on_inverse/000016.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 1204,
+  "wpx": 662
+ },
+ {
+  "file": "validation/tb3_autorace_lights_on_inverse/000018.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 370,
+  "wpx": 1517
+ },
+ {
+  "file": "validation/tb3_autorace_lights_on_inverse/000022.png",
+  "ok": false,
+  "v": 0.0,
+  "yaw": 0.0,
+  "ypx": 998,
+  "wpx": 731
+ }
+]

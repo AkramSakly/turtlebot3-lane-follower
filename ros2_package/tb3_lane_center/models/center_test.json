@@ -1,0 +1,8 @@
+{
+  "frames": 14,
+  "reference_pairs": 6,
+  "predicted_pairs": 6,
+  "matched": 6,
+  "predicted_only": 0,
+  "near_center_mae_pixels": 0.7291666666666666
+}

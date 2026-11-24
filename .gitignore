@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+build/
+install/
+log/
+results_all/
+run_white/
+run_yellow/
+*.zip
+*.webm
+*.mp4
+.vscode/
