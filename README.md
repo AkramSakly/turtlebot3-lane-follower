@@ -3,6 +3,9 @@
 A TurtleBot3 Burger drives autonomously between a **yellow line (left)** and a **white line (right)** on an arena,
 using **deep learning** to see the lines and a ROS 2 controller to steer.
 
+> **Part 1** (classical computer vision with the ROBOTIS AutoRace packages, HSV thresholds):
+> **[AkramSakly/turtlebot3-autorace-lane-follower](https://github.com/AkramSakly/turtlebot3-autorace-lane-follower)**
+
 **Keywords:** machine learning · deep learning · supervised learning · semantic segmentation · U-Net · CNN ·
 PyTorch · ONNX Runtime · ROS 2 Humble · TurtleBot3 · computer vision · autonomous driving
 
